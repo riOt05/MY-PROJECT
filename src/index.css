@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+}
+img{
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    
+}
+#imgOver{
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    background-color: black;
+    opacity: 50%;
+}
+
+
+#subContain{
+    padding: 20px;
+    position: fixed;
+    top: 245px;
+    z-index: 1;
+    height: 350px;
+    width: 500px;
+    left: 620px;
+    text-align: center;
+    font-family: cursive;
+}
+

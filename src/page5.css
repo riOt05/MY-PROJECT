@@ -1,0 +1,49 @@
+#container
+{
+    position: fixed;
+    top: 175px;
+    z-index: 1;
+    height: 400px;
+    width: 600px;
+    opacity: 50%;
+    background-color: white;
+    left: 480px;
+    border-radius: 40px;
+}
+#innerDisc1{
+    position: relative;
+    font-weight: bolder;
+    top: -45px;
+    left:-160px;
+    font-size: 30px;
+    padding: 6px;
+    width:588px;
+    background-color:chartreuse ;  
+}
+#innerDisc2{
+    position: relative;
+    font-weight: bolder;
+    top:20px;
+    left:225px;
+    font-size: 30px;
+    padding: 6px;
+    border-radius:15px;
+    width:130px;
+    background-color:rgb(223, 17, 17) ;  
+    border: 4px;
+    border-style: solid;
+    border-color: green;
+}
+input{
+    position: relative;
+    right: 105px;
+    top:-25px;
+    margin:10px;
+    display: inline;
+    width: 450px;
+    height: 50px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: larger;
+    font-family: cursive;
+}

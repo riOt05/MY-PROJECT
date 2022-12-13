@@ -1,0 +1,157 @@
+#container
+{
+    position: fixed;
+    top:15px;
+    z-index: 1;
+    height:700px;
+    width:1200px;
+    opacity: 50%;
+    background-color: white;
+    left: 145px;
+    border-radius: 40px;
+}
+ #innerDisc{
+    position: relative;
+    width: 1199px;
+    right: 493px;;
+    top:-215px;
+    font-weight: bolder;
+    /* padding: 2px; */
+    font-size: 40px;
+    background-color:chartreuse ;  
+} 
+#container2
+{
+    position: fixed;
+    top: 150px;
+    z-index: 1;
+    height:540px;
+    width:500px;
+    background-color: white;
+    left: 190px;
+    border-radius: 40px;
+}
+h1{
+    position:relative;
+    top:4%;
+    right:110px;
+    text-decoration-line: underline;
+}
+#container3
+{
+    position: fixed;
+    top: 150px;
+    z-index: 1;
+    height:540px;
+    width:500px;
+    background-color: white;
+    left: 795px;
+    border-radius: 40px;
+}
+
+#billDetail1
+{
+    position: relative;
+    top:57.5px;
+    height:40px;
+    width:190px;
+    left:40.5px;
+    font-weight: bolder;
+    padding: 6px;
+    font-size: 27px;
+    border-color: black;
+    border: 3px;
+    border-style: solid;
+    background-color:chartreuse ; 
+}
+#billDetail2
+{
+    position:relative;  
+    height:40px;
+    width:190px;
+    left:247px;
+    font-weight: bolder;
+    padding: 6px;
+    font-size: 26px;
+    background-color:white; 
+    border-color: black;
+    border: 3px;
+    border-style: solid;
+}
+#bt1
+{
+    position: relative;
+    height:30px;
+    width: 30px;
+    top:70px;
+    right:175px;
+}
+#bt2
+{
+    position: relative;
+    height:30px;
+    width: 30px;
+    top:150px;
+    right:175px;
+}
+#bt3
+{
+    position: relative;
+    height:30px;
+    width: 30px;
+    right:175px;
+    top:230px;
+}
+#pay1
+{
+    position:relative;  
+    left:3px;
+    top:-40px;
+    font-weight: bolder;
+    font-size: 28px;
+}
+#pay2
+{
+    position:relative;  
+    left:20px;
+    top:35px;
+    font-weight: bolder;
+    font-size: 28px;
+}
+#pay3
+{
+    position:relative;  
+    left:-25px;
+    top:110px;
+    font-weight: bolder;
+    font-size: 28px;
+}
+#hr1
+{
+    position: relative;
+    background-color: black;
+    height: 3px;
+    width: 75%;
+    top:105px;
+    left:13%;
+}
+#hr3
+{
+    position: relative;
+    background-color: black;
+    height: 2.5px;
+    width: 75%;
+    top:150px;
+    left:13%;
+}
+#innerDisc1{
+    position: relative;
+    font-weight: bolder;
+    top: 170px;
+    left:285px;
+    font-size: 30px;
+    padding: 6px;
+    border-radius:15px;
+    width:150px;
+    background-color:chartreuse ;  
+} 

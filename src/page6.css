@@ -1,0 +1,43 @@
+#container
+{
+    position: fixed;
+    top: 175px;
+    z-index: 1;
+    height: 400px;
+    width: 600px;
+    opacity: 50%;
+    background-color: white;
+    left: 480px;
+    border-radius: 40px;
+}
+#innerDisc1{
+    position: relative;
+    font-weight: bolder;
+    top: -45px;
+    left:-160px;
+    font-size: 30px;
+    padding: 6px;
+    width:588px;
+    background-color:chartreuse ;  
+}
+#innerDisc2{
+    position: relative;
+    font-weight: bolder;
+    top: 10px;
+    left:150px;
+    font-size: 25px;
+    padding: 6px;
+    border-radius:15px;
+    width:230px;
+    background-color:rgb(223, 17, 17) ;  
+    border: 4px;
+    border-style: solid;
+    border-color: green;
+}
+h1{
+    position:relative;
+    top:-20px;
+    right:110px;
+    font-size: 35px;
+    text-decoration-line: none;
+}

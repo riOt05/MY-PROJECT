@@ -1,0 +1,40 @@
+#container
+{
+    position: fixed;
+    top: 175px;
+    z-index: 1;
+    height: 400px;
+    width: 600px;
+    opacity: 50%;
+    background-color: white;
+    left: 480px;
+    border-radius: 40px;
+}
+h1{
+    position:relative;
+    top:-35px;
+    right:110px;
+    font-size: 35px;
+    text-decoration-line: none;
+}
+#end
+{
+    top:5px;
+    color: rgb(214, 22, 22);
+    font-weight: bolder;
+}
+
+#innerDisc{
+    position: relative;
+    font-weight: bolder;
+    top: 35px;
+    left:140px;
+    font-size: 30px;
+    padding: 6px;
+    border-radius:15px;
+    width:250px;
+    border-style: solid;
+    border: 2%;
+    border-color: black;
+    background-color:chartreuse ;  
+}
